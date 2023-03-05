@@ -1,2 +1,2 @@
 # Spoauth
-Auth-:spotl4config
+Auth-:spotl4confi
